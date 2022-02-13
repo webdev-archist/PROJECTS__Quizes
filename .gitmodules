@@ -1,0 +1,12 @@
+[submodule "quize_repos_collection/react-timer-basic"]
+	path = quize_repos_collection/react-timer-basic
+	url = git@github.com:drminnaar/react-timer-basic.git
+[submodule "quize_repos_collection/reinforz"]
+	path = quize_repos_collection/reinforz
+	url = git@github.com:Devorein/reinforz.git
+[submodule "quize_repos_collection/Qocean"]
+	path = quize_repos_collection/Qocean
+	url = git@github.com:Devorein/Qocean.git
+[submodule "quize_repos_collection/quiz-app"]
+	path = quize_repos_collection/quiz-app
+	url = git@github.com:SafdarJamal/quiz-app.git
